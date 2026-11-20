@@ -57,7 +57,7 @@ BCA-C-Programming-Assignment/
 
 ## ADARSH HAZARI
 
-BCA Student
+BCA 1st Sem Student
 
 This repository represents my learning journey in 
 C programming and problem solving.
